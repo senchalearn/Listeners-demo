@@ -16,7 +16,7 @@ Using this repository to follow the screencast
 
 First, you'll have to clone this repository:
 
-    git clone git://github.com/nelstrom/Sencha-Touch-listeners-demo.git
+    git clone git://github.com/senchalearn/Listeners-demo.git
 
 Change into the directory:
 
@@ -50,12 +50,12 @@ You can try out the demo here:
 
 This uses the code from the branch [05_add_reset_button][05].
 
-[00]: https://github.com/nelstrom/Sencha-Touch-listeners-demo/tree/00_blank_slate
-[01]: https://github.com/nelstrom/Sencha-Touch-listeners-demo/tree/01_simple_logger
-[02]: https://github.com/nelstrom/Sencha-Touch-listeners-demo/tree/02_addEvent_interact
-[03]: https://github.com/nelstrom/Sencha-Touch-listeners-demo/tree/03_capture_more_interactions
-[04]: https://github.com/nelstrom/Sencha-Touch-listeners-demo/tree/04_report_interactions_with_a_template
-[05]: https://github.com/nelstrom/Sencha-Touch-listeners-demo/tree/05_add_reset_button
-[06]: https://github.com/nelstrom/Sencha-Touch-listeners-demo/tree/06_one_time_listeners
-[07]: https://github.com/nelstrom/Sencha-Touch-listeners-demo/tree/07_delays_and_buffers
+[00]: https://github.com/senchalearn/Listeners-demo/tree/00_blank_slate
+[01]: https://github.com/senchalearn/Listeners-demo/tree/01_simple_logger
+[02]: https://github.com/senchalearn/Listeners-demo/tree/02_addEvent_interact
+[03]: https://github.com/senchalearn/Listeners-demo/tree/03_capture_more_interactions
+[04]: https://github.com/senchalearn/Listeners-demo/tree/04_report_interactions_with_a_template
+[05]: https://github.com/senchalearn/Listeners-demo/tree/05_add_reset_button
+[06]: https://github.com/senchalearn/Listeners-demo/tree/06_one_time_listeners
+[07]: https://github.com/senchalearn/Listeners-demo/tree/07_delays_and_buffers
 [d]: http://listeners-demo.heroku.com/
